@@ -1,0 +1,13 @@
+{
+  "name": "@acme/state",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "types": "index.ts",
+  "private": true,
+  "dependencies": {
+    "zustand": "^4.4.0"
+  },
+  "scripts": {
+  "dev": "echo \"Nothing to dev in @acme/state\""
+}
+}

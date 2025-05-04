@@ -1,0 +1,16 @@
+// packages/state/tsconfig.json
+{
+    "compilerOptions": {
+      "composite": true,
+      "declaration": true,
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "target": "ESNext",
+      "outDir": "dist",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true
+    },
+    "include": ["index.ts"]
+  }
+  
